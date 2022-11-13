@@ -350,6 +350,7 @@ header {
   height: 320px;
   border-radius: 1rem;
   overflow: hidden;
+  border: var(--main-color) 1px solid;
 }
 
 .portfolio-img {
