@@ -1,4 +1,4 @@
-# This is my dynamin web portfolio (Mark Sabang)
+# This is my dynamic web portfolio (Mark Sabang)
 Web portfolio powered by HTML, CSS and JS only.
 
 Content:
